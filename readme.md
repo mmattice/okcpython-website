@@ -54,11 +54,13 @@ Basically to get the site working properly, you point your domain at the gh-page
 1. Log into your domain registrar's website.
 2. find where you admin your domain. Look for Domain Management
 3. Edit your Host records like thus:
+
 | Host Name 	| Address              	| Record Type   	| Options 	|
 |-----------	|----------------------	|---------------	|---------	|
 | @         	| 192.30.252.153       	| A (Address)   	|         	|
 | @         	| 192.30.252.154       	| A (Address)   	|         	|
 | www       	| techlahoma.github.io 	| CNAME (Alias) 	|         	|
+
 
 4. It might take some time to update.
 ---
