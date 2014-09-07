@@ -62,6 +62,7 @@ Basically to get the site working properly, you point your domain at the gh-page
 | www       	| techlahoma.github.io 	| CNAME (Alias) 	|         	|
 
 
-4. It might take some time to update.
+It may take time to update.
+
 ---
 Readme By : Jesse Harlin [ harlinjesse@gmail.com ]
