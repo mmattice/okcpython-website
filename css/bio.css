@@ -1,0 +1,9 @@
+.speaker-bio {
+  width: auto;
+  min-height: 200px;
+  float: left;
+  padding: 0px 10px 20px 10px;
+  margin: 15px 0px;
+  border: 1px solid rgba(150,150,150,0.2);
+  text-align: justify;
+}
