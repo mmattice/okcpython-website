@@ -1,6 +1,9 @@
 #Okc Python
 ---
 
+![OKC-Python](http://i.imgur.com/SeDaFhg.png)
+
+
 This is the basis for the Oklahoma City Python user group's website. This is asimply blog- type site powered by hexo, with a modified metro-lite theme. This currently supports multiple languages, and also has the ability to add plugins, as necessary.
 
 
