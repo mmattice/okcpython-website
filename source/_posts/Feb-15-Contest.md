@@ -75,3 +75,12 @@ Whitespace in output is optional.
 # Judging
 
 The results will be judged primarily on correctness, then succinctness of solution.  Solutions that take longer than a second to execute will be penalized relative to other correct solutions.
+
+# Submission
+
+Write a python program to solve the problem.
+Email solution to `contest201502@okcpython.org` by **March 6th at 12:00:00AM** with **PUG: numbers game** for the subject.
+
+There will be a prizes lottery for the participating contestants.
+
+Solution *must* be runnable on Ubuntu 14.04, with any special requirements documented.
